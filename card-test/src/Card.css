@@ -1,0 +1,33 @@
+/* .App {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card {
+    width: 300px;
+    height: 400px;
+    padding: 35px;
+    margin: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+  }
+  
+  .offer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+  }
+  
+  .offer {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .like-icon {
+    font-size: 30px;
+  } */
+  
